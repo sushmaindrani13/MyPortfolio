@@ -25,7 +25,7 @@ const Projects = () => {
         <ProjectsCard
           title="TIC TAC TOE 3D"
           des="3D Tic-Tac-Toe game has a 3 dimensional view with dynamic 4*4 grid which is crafted using Java, AWT, and Swing libraries. The traditional 3x3 grid is replaced by an enticing 4x4 square block that elevates the strategic depth of each move."
-          githubLink="https://github.com/your-username/tic-tac-toe-3d"
+          githubLink="https://github.com/sushmaindrani13/TicTacToe3D.git"
         />
         <ProjectsCard
           title="MY PORTFOLIO"
