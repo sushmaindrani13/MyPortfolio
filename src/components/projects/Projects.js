@@ -30,7 +30,7 @@ const Projects = () => {
         <ProjectsCard
           title="MY PORTFOLIO"
           des="MY PORTFOLIO is a website built using React JS, HTML, CSS, JavaScript. This website elegantly presents my professional information with a focus on a visually engaging user interface. The website features a well-designed interface, making it visually attractive and user-friendly for visitors."
-          githubLink="https://github.com/sushmaindrani13/Smart-Canteen.git"
+          githubLink="https://github.com/sushmaindrani13/MyPortfolio.git"
         />
       </div>
     </section>
