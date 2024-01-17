@@ -1,5 +1,4 @@
 import React from 'react'
-import { personalportfolio } from "../../assets/index";
 
 const RightBanner = () => {
   return (
