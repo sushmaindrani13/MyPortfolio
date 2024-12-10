@@ -4,6 +4,7 @@ import FooterBottom from "./components/footer/FooterBottom";
 import Navbar from "./components/navbar/Navbar";
 import Projects from "./components/projects/Projects";
 import Resume from "./components/resume/Resume";
+import Achievements from "./components/achievements/achievements";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Banner />
         <Projects />
         <Resume />
+        <Achievements/>
         <FooterBottom />
       </div>
     </div>

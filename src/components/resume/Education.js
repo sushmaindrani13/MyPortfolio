@@ -15,8 +15,8 @@ const Education = () => {
         <div className="mt-6 lgl:mt-14 w-[1000px] h-[650px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Masters in Computer Science"
-            subTitle="University of North Carolina at Charlotte (2023 - 2025)"
-            result="4/4"
+            subTitle="University of North Carolina at Charlotte (2023 - 2024)"
+            result="GPA 4.0"
             des={
               <>
                 - Established a robust groundwork in algorithms and data structures, essential for crafting software solutions that are both efficient and scalable.
@@ -30,7 +30,7 @@ const Education = () => {
           <ResumeCard
             title="B.Tech in Computer Science"
             subTitle="G.Narayanamma Institute Of Technology and Science for Women (2016 - 2020)"
-            result="8.1/10"
+            result="GPA 8.1"
             des={
               <>
                 - Ganied strong foundation in core computer science subjects.

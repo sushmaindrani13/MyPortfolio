@@ -25,8 +25,7 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base  leading-6 tracking-wide">
-        Experienced software developer with more than 3 years of hands-on experience in diverse projects, specifically in the healthcare domain, showcasing full-stack development proficiency. Currently pursuing a Masters degree in Computer Science at the University of North Carolina at Charlotte, I'm eager to contribute my skills to innovative solutions addressing societal challenges. Seeking a challenging position to leverage technical expertise, problem-solving skills, and a passion for positive impact.
-        </p>
+        Welcome to my profile! Myself Sushma Indrani and I am a passionate Software Engineer with over 4 years of experience, building impactful and reliable software solutions. My expertise spans Java, Python, JavaScript, and modern frameworks such as React, Angular, and Spring Boot. I have strong experience in designing and deploying scalable applications, leveraging cloud platforms (AWS, Azure), and utilizing containerization technologies (Docker, Kubernetes). I’m skilled at managing complex databases and developing interactive web applications that enhance user experiences. Driven by challenges, I thrive in collaborative environments and am always eager to learn and adapt. Let’s connect and explore how we can work together to create innovative and meaningful software!        </p>
       </div>
      {/* Media */}
      <Media />
