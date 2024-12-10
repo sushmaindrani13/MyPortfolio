@@ -14,7 +14,7 @@ const Education = () => {
         <ResumeCard
           title="Masters in Computer Science"
           subTitle="University of North Carolina at Charlotte (2023 - 2024)"
-          result="GPA 8.1"
+          result="GPA 4.0"
           des={
             <>
               <div className="mb-4">
@@ -34,7 +34,7 @@ const Education = () => {
         <ResumeCard
           title="B.Tech in Computer Science"
           subTitle="G.Narayanamma Institute Of Technology and Science for Women (2016 - 2020)"
-          result="GPA 4.0"
+          result="GPA 8.1"
           des={
             <>
               <div className="mb-4">
